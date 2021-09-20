@@ -5,3 +5,4 @@ Language like English and using Machine Translation and NaturalLanguage Processi
 caption can be described in domain language.
 In this project our objective will be to train the model to maximize the likelihood of the target
 description sentence for a given training image.
+Dataset Downloaded: https://www.kaggle.com/adityajn105/flickr8k/activity
